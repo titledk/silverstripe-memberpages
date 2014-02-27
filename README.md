@@ -43,6 +43,6 @@ In the frontend you'll only notice that pages are only available to the members 
 in the backend you'll notice that the section where you can change permissions is no longer
 editable by the user, and instead looks something like this:
 
-[![memberpages admin example](https://raw.github.com/titledk/silverstripe-memberpages/master/docs/images/admin.png)]
+![memberpages admin example](https://raw.github.com/titledk/silverstripe-memberpages/master/docs/images/admin.png)
 
 
