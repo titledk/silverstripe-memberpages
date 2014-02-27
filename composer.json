@@ -1,0 +1,24 @@
+{
+  "name": "titledk/silverstripe-memberpages",
+  "description": "Programmatically make your pages accessible only to members and/or cetain member groups",
+  "type": "silverstripe-module",
+  "homepage": "https://github.com/titledk/silverstripe-memberpages",
+  "keywords": ["silverstripe", "users", "members", "access"],
+  "license": "MIT",
+  "authors": [
+    {"name": "Anselm Christophersen","email": "ac@anselm.dk"}
+  ],
+  "support": {
+    "issues": "https://github.com/titledk/silverstripe-memberpages/issues"
+  },
+  "require": {
+    "silverstripe/cms": "~3.1",
+    "silverstripe/framework": "~3.1"
+  },
+  "extra": {
+    "installer-name": "memberpages",
+    "screenshots": [
+        "https://raw.github.com/titledk/silverstripe-memberpages/master/docs/images/admin.png"
+    ]
+  }
+}
