@@ -4,11 +4,11 @@ _Programmatically make your pages accessible only to members and/or cetain membe
 
 
 This module helps you when working with page types that should be
-restricted from members that have not been logged in, and/or restricted 
-to a certain group.    
+restricted from members that have not been logged in, and/or restricted
+to a certain group.
 While that behavior can easily be achieved via the CMS, sometimes
 you just want this to be the default, and not changeable by any users
-of the CMS.    
+of the CMS.
 This could especially be the case for sites with several languages, where
 the Sitetree can easily get cluttered up, but also just to keep things streamlined
 while working on a project with several developers, test servers etc.
